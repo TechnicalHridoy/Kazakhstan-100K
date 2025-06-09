@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Kazakhstan100k</title>
 </head>
 <body>
 
